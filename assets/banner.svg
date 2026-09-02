@@ -1,0 +1,152 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0b1026"/>
+      <stop offset="100%" stop-color="#02040d"/>
+    </linearGradient>
+
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f7ff"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40"
+            fill="none"
+            stroke="#00f7ff"
+            stroke-opacity="0.08"
+            stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+
+  <!-- Grid -->
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- Decorative glow -->
+  <circle cx="1050" cy="40" r="180"
+          fill="#7c3aed"
+          opacity="0.08"/>
+
+  <circle cx="150" cy="270" r="180"
+          fill="#00f7ff"
+          opacity="0.06"/>
+
+  <!-- Top line -->
+  <rect x="60" y="42" width="1080" height="1"
+        fill="url(#cyan)"
+        opacity="0.6"/>
+
+  <!-- Terminal -->
+  <g transform="translate(90 80)">
+    <rect width="370" height="125"
+          rx="14"
+          fill="#05070f"
+          stroke="#00f7ff"
+          stroke-opacity="0.35"/>
+
+    <circle cx="22" cy="20" r="5" fill="#ff5f56"/>
+    <circle cx="40" cy="20" r="5" fill="#ffbd2e"/>
+    <circle cx="58" cy="20" r="5" fill="#27c93f"/>
+
+    <text x="25" y="58"
+          fill="#00f7ff"
+          font-family="monospace"
+          font-size="16">
+      $ whoami
+    </text>
+
+    <text x="25" y="84"
+          fill="#ffffff"
+          font-family="monospace"
+          font-size="16">
+      amit-kr-mahato
+    </text>
+
+    <text x="25" y="108"
+          fill="#7c3aed"
+          font-family="monospace"
+          font-size="14">
+      software_developer.exe
+    </text>
+  </g>
+
+  <!-- Main title -->
+  <text x="520"
+        y="120"
+        fill="white"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="700">
+    AMIT KUMAR MAHATO
+  </text>
+
+  <!-- Subtitle -->
+  <text x="523"
+        y="155"
+        fill="#00f7ff"
+        font-family="monospace"
+        font-size="20">
+    SOFTWARE DEVELOPER • AI/ML ENTHUSIAST
+  </text>
+
+  <!-- Motto -->
+  <text x="523"
+        y="190"
+        fill="#a5b4fc"
+        font-family="monospace"
+        font-size="16">
+    &lt; Keep Code Keep Growing /&gt;
+  </text>
+
+  <!-- Animated scanning line -->
+  <rect x="520"
+        y="215"
+        width="450"
+        height="2"
+        fill="#00f7ff"
+        opacity="0.7"
+        filter="url(#glow)">
+    <animate
+      attributeName="x"
+      from="520"
+      to="1030"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom line -->
+  <rect x="60" y="255" width="1080" height="1"
+        fill="url(#cyan)"
+        opacity="0.6"/>
+
+  <!-- Status -->
+  <text x="80"
+        y="280"
+        fill="#64748b"
+        font-family="monospace"
+        font-size="12">
+    SYSTEM STATUS: BUILDING • LEARNING • SHIPPING
+  </text>
+
+  <text x="940"
+        y="280"
+        fill="#00f7ff"
+        font-family="monospace"
+        font-size="12">
+    ● ONLINE
+  </text>
+
+</svg>

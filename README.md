@@ -89,7 +89,7 @@
   />
 </a>
 
-<a href="https://www.linkedin.com/in/amit-kumarmahato-7a15752b4">
+<a href="https://www.linkedin.com/in/amit-kumar-mahato-7a15752b4/">
   <img
     src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
     alt="LinkedIn"
@@ -347,39 +347,75 @@ Analytics + Automation
 </div>
 
 ---
-
 # 🚀 Featured Projects
 
 <div align="center">
 
 <table>
-
 <tr>
 
+<!-- ================= CUSTOMER SEGMENTATION ================= -->
+
 <td width="50%" valign="top">
-
-## 📊 Customer Segmentation
-
-Data-driven machine learning project focused on customer behavior analysis and segmentation.
-
-**Tech:** Python · Machine Learning · Data Analytics
 
 <a href="https://github.com/amit-kr-mahato/Customer-Segmentation">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="./assets/projects/customer-segmentation.png"
+alt="Customer Segmentation"
+width="100%"
+/>
+
+</a>
+
+<h3>🧠 Customer Segmentation</h3>
+
+<p>
+Data-driven machine learning project focused on customer behavior analysis and segmentation.
+</p>
+
+<p>
+<b>Python</b> · <b>Machine Learning</b> · <b>Data Analytics</b>
+</p>
+
+<a href="https://github.com/amit-kr-mahato/Customer-Segmentation">
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"
+alt="View Customer Segmentation"
+/>
 </a>
 
 </td>
 
+<!-- ================= SALES DASHBOARD ================= -->
+
 <td width="50%" valign="top">
-
-## 📈 Sales Revenue Dashboard
-
-Dashboard project focused on analyzing sales performance, revenue and business trends.
-
-**Tech:** Data Analytics · Visualization · Dashboard
 
 <a href="https://github.com/amit-kr-mahato/SalesRevenueDashboard">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="./assets/projects/sales-revenue-dashboard.png"
+alt="Sales Revenue Dashboard"
+width="100%"
+/>
+
+</a>
+
+<h3>📊 Sales Revenue Dashboard</h3>
+
+<p>
+Interactive dashboard focused on analyzing sales performance, revenue and business trends.
+</p>
+
+<p>
+<b>Data Analytics</b> · <b>Visualization</b> · <b>Dashboard</b>
+</p>
+
+<a href="https://github.com/amit-kr-mahato/SalesRevenueDashboard">
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"
+alt="View Sales Revenue Dashboard"
+/>
 </a>
 
 </td>
@@ -388,30 +424,68 @@ Dashboard project focused on analyzing sales performance, revenue and business t
 
 <tr>
 
+<!-- ================= DATA AUTOMATION ================= -->
+
 <td width="50%" valign="top">
-
-## ⚙️ Data Automation
-
-Automation project focused on data processing, transformation and repetitive workflow automation.
-
-**Tech:** Python · Data Processing · Automation
 
 <a href="https://github.com/amit-kr-mahato/data-automation-project">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="./assets/projects/data-automation.png"
+alt="Data Automation Project"
+width="100%"
+/>
+
+</a>
+
+<h3>⚙️ Data Automation</h3>
+
+<p>
+Automation project focused on data processing, transformation and repetitive workflow automation.
+</p>
+
+<p>
+<b>Python</b> · <b>Data Processing</b> · <b>Automation</b>
+</p>
+
+<a href="https://github.com/amit-kr-mahato/data-automation-project">
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"
+alt="View Data Automation"
+/>
 </a>
 
 </td>
 
+<!-- ================= PREDICTIVE ANALYTICS ================= -->
+
 <td width="50%" valign="top">
 
-## 🔮 Predictive Analytics
+<a href="https://github.com/amit-kr-mahato/predictive-Analytics">
 
-Machine-learning project focused on identifying patterns and generating predictive insights from data.
+<img
+src="./assets/projects/predictive-analytics.png"
+alt="Predictive Analytics"
+width="100%"
+/>
 
-**Tech:** Python · Machine Learning · Analytics
+</a>
+
+<h3>🔮 Predictive Analytics</h3>
+
+<p>
+Machine learning project focused on identifying patterns and generating predictive insights from data.
+</p>
+
+<p>
+<b>Python</b> · <b>Machine Learning</b> · <b>Analytics</b>
+</p>
 
 <a href="https://github.com/amit-kr-mahato/predictive-Analytics">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"
+alt="View Predictive Analytics"
+/>
 </a>
 
 </td>
@@ -420,45 +494,84 @@ Machine-learning project focused on identifying patterns and generating predicti
 
 <tr>
 
+<!-- ================= PLANT DISEASE ================= -->
+
 <td width="50%" valign="top">
 
-## 🌱 Plant Disease Detection
+<a href="https://github.com/amit-kr-mahato/plant_disease_projects">
 
-Machine-learning project focused on image-based plant disease identification and classification.
+<img
+src="./assets/projects/plant-disease.png"
+alt="Plant Disease Detection"
+width="100%"
+/>
 
-**Tech:** Python · Machine Learning · Computer Vision
+</a>
+
+<h3>🌱 Plant Disease Detection</h3>
+
+<p>
+Machine learning project focused on image-based plant disease identification and classification.
+</p>
+
+<p>
+<b>Python</b> · <b>Machine Learning</b> · <b>Computer Vision</b>
+</p>
 
 <a href="https://github.com/amit-kr-mahato/plant_disease_projects">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"
+alt="View Plant Disease Project"
+/>
 </a>
 
 </td>
 
+<!-- ================= BIZZLISTO ================= -->
+
 <td width="50%" valign="top">
 
-## 🏙️ Bizzlisto
+<a href="https://github.com/amit-kr-mahato/Bizzlisto">
 
-Full-stack business discovery and listing platform.
+<img
+src="./assets/projects/bizzlisto.png"
+alt="Bizzlisto"
+width="100%"
+/>
 
-**Tech:** MERN · APIs · Authentication · Database
+</a>
+
+<h3>🏙️ Bizzlisto</h3>
+
+<p>
+Full-stack business discovery and listing platform designed for discovering and managing businesses.
+</p>
+
+<p>
+<b>MERN</b> · <b>REST APIs</b> · <b>Authentication</b> · <b>MongoDB</b>
+</p>
 
 <a href="https://github.com/amit-kr-mahato/Bizzlisto">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"
+alt="View Bizzlisto"
+/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
 <br/>
+
+<!-- ================= ALL REPOSITORIES ================= -->
 
 <a href="https://github.com/amit-kr-mahato?tab=repositories">
 
 <img
 src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-020617?style=for-the-badge&logo=github&logoColor=00D9FF"
-alt="All Repositories"
+alt="Explore All Repositories"
 />
 
 </a>
@@ -666,7 +779,7 @@ alt="Developer Philosophy"
 <img src="https://img.shields.io/badge/GitHub-Follow-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amit-kumarmahato-7a15752b4">
+<a href="https://www.linkedin.com/in/amit-kumar-mahato-7a15752b4/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

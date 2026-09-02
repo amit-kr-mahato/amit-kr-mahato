@@ -1,6 +1,10 @@
 <div align="center">
 
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                        HERO BANNER                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <picture>
   <source
@@ -20,40 +24,102 @@
 
 <br/>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                      TYPING ANIMATION                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/amit-kr-mahato">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Digital+Solutions;Keep+Code+Keep+Growing+%F0%9F%9A%80"
-    alt="Typing animation"
-  />
+
+<img
+ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%A1;Laravel+%26+PHP+Developer;Python+%7C+Machine+Learning+Enthusiast+%F0%9F%A4%96;Generative+AI+%7C+RAG+Builder+%F0%9F%A7%A0;Building+Real-World+Digital+Solutions+%F0%9F%8C%8D;Keep+Code+Keep+Growing+%F0%9F%94%A5"
+ alt="Animated typing introduction"
+/>
+
 </a>
-
-<br/>
-
-<!-- ===================== PROFILE BADGES ===================== -->
-
-<img src="https://komarev.com/ghpvc/?username=amit-kr-mahato&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/amit-kr-mahato?label=FOLLOWERS&style=for-the-badge&color=1f6feb" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/amit-kr-mahato?label=STARS&style=for-the-badge&color=f5c518" />
 
 <br/><br/>
 
-<!-- ===================== SOCIAL LINKS ===================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       PROFILE STATS                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/amit-kr-mahato">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+
+<img
+ src="https://komarev.com/ghpvc/?username=amit-kr-mahato&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"
+ alt="Profile Views"
+/>
+
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://github.com/amit-kr-mahato?tab=followers">
+
+<img
+ src="https://img.shields.io/github/followers/amit-kr-mahato?label=FOLLOWERS&style=for-the-badge&color=0077B5"
+ alt="GitHub Followers"
+/>
+
 </a>
-&nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="https://github.com/amit-kr-mahato?tab=repositories">
+
+<img
+ src="https://img.shields.io/github/stars/amit-kr-mahato?label=STARS&style=for-the-badge&color=F5C518"
+ alt="GitHub Stars"
+/>
+
 </a>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         SOCIAL LINKS                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/amit-kr-mahato">
+  <img
+    src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/amit-kumarmahato-7a15752b4">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:singhamit984537@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Email"
+  />
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         STATUS                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img
+src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-00D9FF?style=for-the-badge"
+alt="Developer Status"
+/>
+
+<img
+src="https://img.shields.io/badge/FOCUS-AI%20%7C%20FULL--STACK-7C3AED?style=for-the-badge"
+alt="Current Focus"
+/>
 
 </div>
 
@@ -61,29 +127,570 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="330" src="./assets/profile.gif" alt="Developer animation"/>
+<div align="center">
+
+<!-- Animated developer / ID-card GIF -->
+
+<img
+src="./assets/profile.gif"
+width="500"
+alt="Amit Kumar Mahato Developer ID Card"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/amit-kr-mahato">
+  <img src="https://img.shields.io/badge/Software%20Developer-00D9FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/amit-kr-mahato">
+  <img src="https://img.shields.io/badge/BCSIT%20Student-7C3AED?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/amit-kr-mahato">
+  <img src="https://img.shields.io/badge/AI%2FML%20Enthusiast-F97316?style=for-the-badge" />
+</a>
+
+</div>
+
+<br/>
+
+I'm **Amit Kumar Mahato**, a **Software Developer and BCSIT student** passionate about building practical, scalable and modern software solutions.
+
+I work across the full stack, building applications with **React, Node.js, Express.js, MongoDB, Laravel, PHP and Python**.
+
+I'm also exploring **Machine Learning, Generative AI and Retrieval-Augmented Generation (RAG)** to create intelligent, data-driven applications.
+
+My development philosophy is simple:
+
+<div align="center">
+
+### 💻 Build → 🧠 Learn → ⚡ Improve → 🚀 Ship
+
+</div>
+
+---
+
+## 🧬 Developer Profile
 
 ```yaml
-name: Amit Kumar Mahato
-username: amit-kr-mahato
-role: Software Developer
-education: BCSIT Student
-location: Nepal
+developer:
+  name: "Amit Kumar Mahato"
+  username: "amit-kr-mahato"
+  role: "Software Developer"
+  education: "BCSIT"
+  location: "Nepal"
 
-focus:
+specialization:
   - Full Stack Web Development
   - MERN Stack
   - Laravel & PHP
+  - REST API Development
+  - Database Management
   - Python
-  - Artificial Intelligence
   - Machine Learning
   - Generative AI
   - Retrieval-Augmented Generation
 
+primary_stack:
+  frontend:
+    - React.js
+    - JavaScript
+    - HTML
+    - CSS
+    - Bootstrap
+    - Tailwind CSS
+
+  backend:
+    - Node.js
+    - Express.js
+    - Laravel
+    - PHP
+
+  database:
+    - MongoDB
+    - MySQL
+    - SQL
+
+  ai_ml:
+    - Python
+    - Machine Learning
+    - Data Analytics
+    - Generative AI
+    - RAG
+
+tools:
+  - Git
+  - GitHub
+  - VS Code
+  - Postman
+  - Docker
+
 currently_learning:
-  - Advanced System Design
+  - Advanced Machine Learning
+  - Generative AI
+  - RAG Applications
   - AI Engineering
+  - System Design
   - Cloud Technologies
   - Scalable Backend Architecture
 
 philosophy: "Keep Code Keep Growing 🚀"
+```
+
+---
+
+# ⚡ What I Do
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🌐
+
+### Full Stack
+
+React + Node + Express + MongoDB
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖
+
+### AI / ML
+
+Python + ML + AI
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧠
+
+### Generative AI
+
+LLMs + RAG
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊
+
+### Data
+
+Analytics + Automation
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,js,html,css" />
+
+<br/><br/>
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+
+<br/><br/>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
+
+<br/><br/>
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 Customer Segmentation
+
+Data-driven machine learning project focused on customer behavior analysis and segmentation.
+
+**Tech:** Python · Machine Learning · Data Analytics
+
+<a href="https://github.com/amit-kr-mahato/Customer-Segmentation">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📈 Sales Revenue Dashboard
+
+Dashboard project focused on analyzing sales performance, revenue and business trends.
+
+**Tech:** Data Analytics · Visualization · Dashboard
+
+<a href="https://github.com/amit-kr-mahato/SalesRevenueDashboard">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚙️ Data Automation
+
+Automation project focused on data processing, transformation and repetitive workflow automation.
+
+**Tech:** Python · Data Processing · Automation
+
+<a href="https://github.com/amit-kr-mahato/data-automation-project">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔮 Predictive Analytics
+
+Machine-learning project focused on identifying patterns and generating predictive insights from data.
+
+**Tech:** Python · Machine Learning · Analytics
+
+<a href="https://github.com/amit-kr-mahato/predictive-Analytics">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 Plant Disease Detection
+
+Machine-learning project focused on image-based plant disease identification and classification.
+
+**Tech:** Python · Machine Learning · Computer Vision
+
+<a href="https://github.com/amit-kr-mahato/plant_disease_projects">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏙️ Bizzlisto
+
+Full-stack business discovery and listing platform.
+
+**Tech:** MERN · APIs · Authentication · Database
+
+<a href="https://github.com/amit-kr-mahato/Bizzlisto">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<a href="https://github.com/amit-kr-mahato?tab=repositories">
+
+<img
+src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-020617?style=for-the-badge&logo=github&logoColor=00D9FF"
+alt="All Repositories"
+/>
+
+</a>
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Full Stack Developer Intern — CODE IT
+
+**April 2026 – July 2026 · Kathmandu, Nepal · Remote**
+
+```text
+Frontend        → React.js
+Backend         → Node.js + Express.js
+Database        → MongoDB
+Authentication  → JWT
+API             → RESTful APIs
+Version Control → Git + GitHub
+```
+
+### Key Contributions
+
+* Developed responsive full-stack web applications.
+* Built and integrated RESTful APIs.
+* Implemented authentication and authorization.
+* Worked with MongoDB and CRUD operations.
+* Debugged and optimized application functionality.
+* Used Git and GitHub for development workflows.
+* Participated in testing and code-review processes.
+
+---
+
+# 🤖 AI / ML Journey
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+%E2%86%92+Data+%E2%86%92+Machine+Learning;Machine+Learning+%E2%86%92+Generative+AI;Generative+AI+%E2%86%92+RAG;RAG+%E2%86%92+Intelligent+Applications"
+alt="AI Journey Animation"
+/>
+
+</div>
+
+```text
+Python
+   │
+   ▼
+Data Processing
+   │
+   ▼
+Machine Learning
+   │
+   ├──────────────► Predictive Analytics
+   │
+   ▼
+Generative AI
+   │
+   ▼
+Retrieval-Augmented Generation
+   │
+   ▼
+AI-Powered Applications
+```
+
+### 🔬 Current AI Focus
+
+* 🐍 Python
+* 📊 Data Analytics
+* 🤖 Machine Learning
+* 🧠 Generative AI
+* 📚 RAG Applications
+* 💬 AI Chatbots
+* 🔎 Intelligent Search
+* ⚙️ AI Automation
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=amit-kr-mahato&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+height="190"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-kr-mahato&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="190"
+alt="Top Languages"
+/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=amit-kr-mahato&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=F97316&currStreakLabel=00D9FF"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/amit-kr-mahato/amit-kr-mahato/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="Animated GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=amit-kr-mahato&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
+width="100%"
+alt="GitHub Achievements"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=amit-kr-mahato&theme=tokyo-night&hide_border=true"
+width="100%"
+alt="GitHub Contribution Activity"
+/>
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Full-Stack+Engineering+%E2%9C%93;Advanced+Machine+Learning+%E2%86%92;Generative+AI+%E2%86%92;RAG+Applications+%E2%86%92;System+Design+%E2%86%92;Cloud+%26+DevOps+%E2%86%92;Open+Source+%E2%86%92"
+alt="2026 Roadmap Animation"
+/>
+
+</div>
+
+---
+
+# 📜 Certifications & Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-Essentials-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-Learning-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-Learning-0EA5E9?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Build+with+Purpose.;Learn+Every+Day.;Solve+Real-World+Problems.;Write+Better+Code.;Keep+Code+Keep+Growing+%F0%9F%9A%80"
+alt="Developer Philosophy"
+/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/amit-kr-mahato">
+<img src="https://img.shields.io/badge/GitHub-Follow-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amit-kumarmahato-7a15752b4">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:singhamit984537@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+%F0%9F%9A%80;Keep+Code+Keep+Growing+%F0%9F%94%A5"
+alt="Closing Animation"
+/>
+
+<br/><br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:00D9FF&height=140&section=footer"
+width="100%"
+alt="Animated Footer"
+/>
+
+</div>

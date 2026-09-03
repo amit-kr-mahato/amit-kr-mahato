@@ -728,14 +728,12 @@ alt="GitHub Contribution Streak"
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=amit-kr-mahato&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
-  width="100%"
-  alt="GitHub Achievements"
-/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=amit-kr-mahato&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
+    width="100%"
+    alt="GitHub Achievements"/>
 </div>
+
 
 
 # 🎯 2026 Roadmap

@@ -656,16 +656,40 @@ AI-Powered Applications
 
 <div align="center">
 
+<a href="https://github.com/amit-kr-mahato">
+
 <img
 src="https://github-readme-stats.vercel.app/api?username=amit-kr-mahato&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-height="190"
-alt="GitHub Statistics"
+height="180"
+alt="Amit Kumar Mahato GitHub Statistics"
 />
+
+</a>
+
+<a href="https://github.com/amit-kr-mahato">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-kr-mahato&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-height="190"
-alt="Top Languages"
+height="180"
+alt="Amit Kumar Mahato Top Languages"
+/>
+
+</a>
+
+<br/><br/>
+
+<img
+src="https://streak-stats.demolab.com?user=amit-kr-mahato&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=F97316&currStreakLabel=00D9FF"
+width="80%"
+alt="GitHub Contribution Streak"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=amit-kr-mahato&theme=tokyo-night&hide_border=true&area=true&custom_title=Amit%20Kumar%20Mahato%20-%20Contribution%20Activity"
+width="95%"
+alt="GitHub Contribution Activity"
 />
 
 </div>

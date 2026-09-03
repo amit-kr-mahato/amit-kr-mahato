@@ -730,29 +730,13 @@ alt="GitHub Contribution Streak"
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=amit-kr-mahato&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
-width="100%"
-alt="GitHub Achievements"
+  src="https://github-profile-trophy.vercel.app/?username=amit-kr-mahato&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
+  width="100%"
+  alt="GitHub Achievements"
 />
 
 </div>
 
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=amit-kr-mahato&theme=tokyo-night&hide_border=true"
-width="100%"
-alt="GitHub Contribution Activity"
-/>
-
-</div>
-
----
 
 # 🎯 2026 Roadmap
 

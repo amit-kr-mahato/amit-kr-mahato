@@ -304,7 +304,7 @@ Analytics + Automation
 
 ### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,js,html,css" />
+<img src="https://skillicons.dev/icons?i=laravel,python,php,js,html,css" />
 
 <br/><br/>
 
@@ -698,14 +698,14 @@ alt="GitHub Contribution Activity"
 
 <!-- # 🔥 Contribution Streak -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img
 src="https://streak-stats.demolab.com?user=amit-kr-mahato&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=F97316&currStreakLabel=00D9FF"
 alt="GitHub Contribution Streak"
 />
 
-</div>
+</div> -->
 
 ---
 
@@ -715,9 +715,9 @@ alt="GitHub Contribution Streak"
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/amit-kr-mahato/amit-kr-mahato/output/github-contribution-grid-snake.svg"
-width="100%"
-alt="Animated GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/amit-kr-mahato/amit-kr-mahato/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Animated GitHub Contribution Snake Dark"
 />
 
 </div>

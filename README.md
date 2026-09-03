@@ -696,7 +696,7 @@ alt="GitHub Contribution Activity"
 
 ---
 
-# 🔥 Contribution Streak
+<!-- # 🔥 Contribution Streak -->
 
 <div align="center">
 
@@ -709,7 +709,8 @@ alt="GitHub Contribution Streak"
 
 ---
 
-# 🐍 Contribution Snake
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -720,6 +721,7 @@ alt="Animated GitHub Contribution Snake"
 />
 
 </div>
+
 
 ---
 

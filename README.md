@@ -725,7 +725,7 @@ alt="Animated GitHub Contribution Snake"
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -736,6 +736,7 @@ alt="GitHub Achievements"
 />
 
 </div>
+
 
 ---
 

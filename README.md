@@ -715,23 +715,25 @@ alt="GitHub Contribution Streak"
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/amit-kr-mahato/amit-kr-mahato/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/amit-kr-mahato/amit/output/github-contribution-grid-snake-dark.svg"
   width="100%"
   alt="Animated GitHub Contribution Snake Dark"
 />
 
 </div>
 
-
 ---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=amit-kr-mahato&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
-    width="100%"
-    alt="GitHub Achievements"/>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=amit-kr-mahato&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
+  width="100%"
+  alt="GitHub Achievements"
+/>
+
 </div>
 
 
